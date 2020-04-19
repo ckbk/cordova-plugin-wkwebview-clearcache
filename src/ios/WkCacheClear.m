@@ -87,7 +87,6 @@ Calls are async operations and SHOULD BE CALLED FROM THE MAIN THREAD (?)
 
 - (void)success
 {
-    NSLog(@"%@", resultMsg);
     
     CDVPluginResult *result = [CDVPluginResult resultWithStatus:CDVCommandStatus_OK];
     
