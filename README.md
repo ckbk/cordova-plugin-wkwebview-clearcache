@@ -11,7 +11,7 @@ Installation
 Using the standard Cordova CLI:
 
 <pre>
-cordova plugin add https://github.com/mgatto/cordova-plugin-wkwebview-clearcache.git
+cordova plugin add https://github.com/enrichcous/cordova-plugin-wkwebview-clearcache.git
 </pre>
 
 Usage
